@@ -1,0 +1,138 @@
+*{
+    background: rgba(180, 234, 235, 0.979);
+}
+
+h1{
+    color: rgb(57, 135, 129);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+.nav-link:hover{
+    background-color: antiquewhite;
+}
+
+.nav-link{
+    background-color: rgb(53, 124, 118);
+}
+#bb{
+    color: cornflowerblue;
+    background-color: antiquewhite;
+}
+
+nav{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important ;
+
+}
+
+#titler{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5 px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#titles{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#titlesc{
+    justify-content: center;
+}
+#sale{
+    margin-bottom: 0;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.active{
+    background-color: grey;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: cornflowerblue;
+}
+#projects{ 
+    color: rgb(123, 32, 46);
+    text-align: center;
+    margin: 0;
+}
+#contact{
+    text-align: right;
+}
+#email:hover{
+    background-color: aquamarine;
+}
+#fish{
+    color: black;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+}
+#dragon{
+    text-align: center;
+}
+#PFlowers{
+    text-align: center;
+}
+#flowers{
+    text-align: center;
+}
+#RFlowers{
+    text-align: center;
+}
+#Peacock{
+    text-align: center;
+}
+#BFlowers{
+    text-align: center;
+}
+#carouselExampleIndicators{
+    padding: 100px;
+}
+#fishycenter{
+    justify-content: center;
+}
+#hum{
+    justify-content: center;
+}
+#row1{
+    text-align: center;
+}
+#row2{
+    text-align: center;
+}
+#Swany{
+    display: flex;
+    align-items: center;
+}
+#twindragons{
+    justify-content: center;
+}
+/*#navigation{
+    position:sticky;
+    top:0px;
+}*/
+
+
+
+
+/*.carousel .carousel-item {
+    height: 600px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 600px;
+  }*/
