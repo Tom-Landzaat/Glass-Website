@@ -10,7 +10,7 @@ h1{
 }
 
 .nav-link:hover{
-    background-color: antiquewhite;
+    background-color: cornflowerblue;
 }
 
 .nav-link{
@@ -30,11 +30,12 @@ nav{
 #titler{
     margin-top: 0;
     margin-bottom: 0;
-    padding-top: 5 px;
+    padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 0px;
     background-color: antiquewhite;
     text-align: center;
+    font-family: "roboto", serif;
 }
 #titles{
     margin-top: 0;
@@ -54,7 +55,7 @@ nav{
     padding-bottom: 10px;
 }
 .active{
-    background-color: grey;
+    background-color: rgb(180, 264, 265);
 }
 .navbar-brand{
     font-weight: bold;
@@ -97,6 +98,8 @@ nav{
 }
 #carouselExampleIndicators{
     padding: 100px;
+    min-width: 500px;
+    overflow:hidden;
 }
 #fishycenter{
     justify-content: center;
