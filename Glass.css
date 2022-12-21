@@ -2,6 +2,11 @@
     background: rgba(180, 234, 235, 0.979);
 }
 
+@font-face{
+    font-family: 'RubikGemstones';
+    src: url('fonts/RubikGemstones-Regular.ttf')
+    format('truetype');
+}
 h1{
     color: rgb(57, 135, 129);
     margin-top: 0;
@@ -45,9 +50,11 @@ nav{
     padding-left: 0px;
     background-color: antiquewhite;
     text-align: center;
+    font-size: 50px;
 }
 #titlesc{
     justify-content: center;
+    font-family:'RubikGemstones';
 }
 #sale{
     margin-bottom: 0;
