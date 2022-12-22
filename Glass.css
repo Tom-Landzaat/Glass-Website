@@ -1,5 +1,5 @@
 *{
-    background: rgba(180, 234, 235, 0.979);
+    background: rgba(116, 162, 231, 0.979);
 }
 
 @font-face{
@@ -7,8 +7,28 @@
     src: url('fonts/RubikGemstones-Regular.ttf')
     format('truetype');
 }
+@font-face {
+    font-family: 'Nova';
+    src: url('fonts/NovaRound-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: 'incon';
+    src: url('fonts/Inconsolata-VariableFont_wdth\,wght.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: "Caveat";
+    src: url('fonts/Caveat-VariableFont_wght.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: "Oswald";
+    src: url('fonts/Oswald-VariableFont_wght.ttf')
+    format('truetype');
+}
 h1{
-    color: rgb(57, 135, 129);
+    color: rgb(88, 77, 165);
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
@@ -22,8 +42,8 @@ h1{
     background-color: rgb(53, 124, 118);
 }
 #bb{
-    color: cornflowerblue;
-    background-color: antiquewhite;
+    color: rgb(88, 77, 165);
+    background-color: rgb(78, 199, 220);
 }
 
 nav{
@@ -38,9 +58,9 @@ nav{
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(78, 199, 220);
     text-align: center;
-    font-family: "roboto", serif;
+    font-size: 50px;
 }
 #titles{
     margin-top: 0;
@@ -48,18 +68,22 @@ nav{
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(78, 199, 220);
     text-align: center;
     font-size: 50px;
 }
 #titlesc{
     justify-content: center;
     font-family:'RubikGemstones';
+    padding-top: 40px;
 }
 #sale{
     margin-bottom: 0;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    font-family: 'Nova' ;
+    font-weight: bold;
 }
 .active{
     background-color: rgb(180, 264, 265);
@@ -75,6 +99,7 @@ nav{
 }
 #contact{
     text-align: right;
+    padding-right: 10px;
 }
 #email:hover{
     background-color: aquamarine;
@@ -84,24 +109,9 @@ nav{
     text-align: center;
     margin-bottom: 0;
     padding-bottom: 5px;
-}
-#dragon{
-    text-align: center;
-}
-#PFlowers{
-    text-align: center;
-}
-#flowers{
-    text-align: center;
-}
-#RFlowers{
-    text-align: center;
-}
-#Peacock{
-    text-align: center;
-}
-#BFlowers{
-    text-align: center;
+    font-family: "Caveat";
+    font-size: 45px;
+    font-weight: bold;
 }
 #carouselExampleIndicators{
     padding: 100px;
@@ -116,9 +126,16 @@ nav{
 }
 #row1{
     text-align: center;
+    font-family: 'Caveat';
+    font-size: 45px;
+    font-weight: bold;
 }
 #row2{
     text-align: center;
+    font-family: 'Caveat';
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(137, 2, 2);
 }
 #Swany{
     display: flex;
