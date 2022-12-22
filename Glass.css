@@ -49,7 +49,13 @@ h1{
 nav{
     padding-top: 0 !important;
     padding-bottom: 0 !important ;
+    font-size: large;
+    font-weight: bold;
+}
 
+.navbar-brand{
+    font-weight: bold;
+    color: cornflowerblue;
 }
 
 #titler{
@@ -84,14 +90,12 @@ nav{
     padding-top: 30px;
     font-family: 'Nova' ;
     font-weight: bold;
+    margin-top: 0;
 }
 .active{
     background-color: rgb(180, 264, 265);
 }
-.navbar-brand{
-    font-weight: bold;
-    color: cornflowerblue;
-}
+
 #projects{ 
     color: rgb(123, 32, 46);
     text-align: center;
@@ -129,6 +133,7 @@ nav{
     font-family: 'Caveat';
     font-size: 45px;
     font-weight: bold;
+    margin-bottom: 0;
 }
 #row2{
     text-align: center;
@@ -136,6 +141,7 @@ nav{
     font-weight: bold;
     font-size: 40px;
     color: rgb(137, 2, 2);
+    margin-bottom: 0;
 }
 #Swany{
     display: flex;
