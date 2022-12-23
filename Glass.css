@@ -117,11 +117,13 @@ nav{
     font-weight: bold;
 }
 #carouselExampleIndicators{
-    padding: 100px;
+    /*padding: 100px;
     min-width: 500px;
-    overflow:hidden;
+    overflow:hidden;*/
     justify-content: center;
     margin: 0;
+    padding:10%;
+
 }
 #fishycenter{
     justify-content: center;
