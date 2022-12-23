@@ -121,6 +121,7 @@ nav{
     padding: 100px;
     min-width: 500px;
     overflow:hidden;
+    justify-content: center;
 }
 #fishycenter{
     justify-content: center;
@@ -149,6 +150,9 @@ nav{
 }
 #twindragons{
     justify-content: center;
+}
+#Gal{
+    width: 100%;
 }
 /*#navigation{
     position:sticky;
