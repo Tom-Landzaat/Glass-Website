@@ -63,7 +63,6 @@ nav{
     margin-bottom: 0;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 0px;
     background-color: rgb(78, 199, 220);
     text-align: center;
     font-size: 50px;
@@ -73,15 +72,15 @@ nav{
     margin-bottom: 0;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 0px;
     background-color: rgb(78, 199, 220);
     text-align: center;
     font-size: 50px;
+    font-family:'RubikGemstones';
 }
 #titlesc{
     justify-content: center;
-    font-family:'RubikGemstones';
     padding-top: 40px;
+    margin: 0;
 }
 #sale{
     margin-bottom: 0;
@@ -122,9 +121,11 @@ nav{
     min-width: 500px;
     overflow:hidden;
     justify-content: center;
+    margin: 0;
 }
 #fishycenter{
     justify-content: center;
+    margin: 0;
 }
 #hum{
     justify-content: center;
@@ -150,9 +151,10 @@ nav{
 }
 #twindragons{
     justify-content: center;
+    margin: 0;
 }
-#Gal{
-    width: 100%;
+#rownum1{
+    margin:0;
 }
 /*#navigation{
     position:sticky;
