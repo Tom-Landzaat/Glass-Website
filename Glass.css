@@ -148,10 +148,6 @@ nav{
     display: flex;
     align-items: center;
 }
-#twindragons{
-    justify-content: center;
-    margin: 0;
-}
 #rownum1{
     margin:0;
 }
