@@ -46,6 +46,7 @@ h1{
     background-color: rgb(78, 199, 220);
     font-family: 'RubikGemstones';
     font-weight: lighter;
+    
 }
 
 nav{
@@ -60,15 +61,6 @@ nav{
     color: cornflowerblue;
 }
 
-#titler{
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: rgb(78, 199, 220);
-    text-align: center;
-    font-size: 50px;
-}
 #titles{
     margin-top: 0;
     margin-bottom: 0;
@@ -78,6 +70,7 @@ nav{
     text-align: center;
     font-size: 50px;
     font-family:'RubikGemstones';
+    border-radius: 25px;
 }
 #titlesc{
     justify-content: center;
@@ -110,9 +103,6 @@ nav{
     padding-top: 10px;
     font-family: 'Nova';
     font-weight: bold;
-}
-#email:hover{
-    background-color: aquamarine;
 }
 #fish{
     color: black;
@@ -176,6 +166,9 @@ nav{
 #abtpage{
     padding-left: 50px;
     margin: 0;
+}
+#abtlinks:hover{
+    background-color: aquamarine;
 }
 /*#navigation{
     position:sticky;
