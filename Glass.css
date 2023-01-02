@@ -108,6 +108,8 @@ nav{
     padding-right: 10px;
     margin: 0;
     padding-top: 10px;
+    font-family: 'Nova';
+    font-weight: bold;
 }
 #email:hover{
     background-color: aquamarine;
@@ -170,6 +172,10 @@ nav{
 #com{
     text-align: center;
     font-family: 'Nova';
+}
+#abtpage{
+    padding-left: 50px;
+    margin: 0;
 }
 /*#navigation{
     position:sticky;
