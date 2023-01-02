@@ -44,6 +44,8 @@ h1{
 #bb{
     color: rgb(88, 77, 165);
     background-color: rgb(78, 199, 220);
+    font-family: 'RubikGemstones';
+    font-weight: lighter;
 }
 
 nav{
@@ -161,8 +163,13 @@ nav{
 #rownum1{
     margin:0;
 }
+#comrow1{
+    margin: 0;
+    padding-bottom: 35px;
+}
 #com{
     text-align: center;
+    font-family: 'Nova';
 }
 /*#navigation{
     position:sticky;
