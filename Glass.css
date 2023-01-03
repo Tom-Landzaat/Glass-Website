@@ -1,5 +1,6 @@
 *{
     background: rgba(116, 162, 231, 0.979);
+    overscroll-behavior-y: none;
 }
 
 @font-face{
