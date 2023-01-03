@@ -1,6 +1,6 @@
 *{
     background: rgba(116, 162, 231, 0.979);
-    overscroll-behavior-y: none;
+
 }
 
 @font-face{
@@ -163,6 +163,7 @@ nav{
 }
 #abtpage{
     margin: 0;
+    padding-bottom: 25px;
 }
 #abtlinks:hover{
     background-color: aquamarine;
