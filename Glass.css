@@ -1,6 +1,6 @@
 *{
     background: rgba(116, 162, 231, 0.979);
-
+    overscroll-behavior: none
 }
 
 @font-face{
@@ -33,9 +33,6 @@ h1{
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
-}
-body{
-    overscroll-behavior: none !important;
 }
 .nav-link:hover{
     background-color: cornflowerblue;
