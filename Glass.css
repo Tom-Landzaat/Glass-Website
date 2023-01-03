@@ -33,7 +33,9 @@ h1{
     margin-bottom: 0;
     padding-top: 0;
 }
-
+body{
+    overscroll-behavior: none;
+}
 .nav-link:hover{
     background-color: cornflowerblue;
 }
@@ -160,7 +162,7 @@ nav{
     font-family: 'Nova';
 }
 #abtpage{
-    padding-left: 50px;
+    padding-left: 40px;
     margin: 0;
 }
 #abtlinks:hover{
