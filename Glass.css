@@ -35,6 +35,7 @@ h1{
 }
 body{
     overscroll-behavior: none;
+    overflow: auto;
 }
 .nav-link:hover{
     background-color: cornflowerblue;
