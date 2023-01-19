@@ -165,6 +165,10 @@ nav{
 #abtlinks:hover{
     background-color: aquamarine;
 }
+#comingsoon{
+    justify-content: center;
+    margin: 0;
+}
 /*#navigation{
     position:sticky;
     top:0px;
