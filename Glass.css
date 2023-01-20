@@ -169,6 +169,9 @@ nav{
     justify-content: center;
     margin: 0;
 }
+#roundy{
+    border-radius: 350px;
+}
 /*#navigation{
     position:sticky;
     top:0px;
