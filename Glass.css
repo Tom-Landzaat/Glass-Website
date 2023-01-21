@@ -116,7 +116,19 @@ nav{
 #carouselExampleIndicators{
     /*padding: 100px;
     min-width: 500px;
-    overflow:hidden;*/
+    overflow:hidden;8*/
+    justify-content: center;
+    margin: 0;
+    padding:10%;
+
+}
+#carouselExampleIndicatorsHome{
+    justify-content: center;
+    margin: 0;
+    padding:9%;
+
+}
+#carouselExampleIndicators1{
     justify-content: center;
     margin: 0;
     padding:10%;
