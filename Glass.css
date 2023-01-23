@@ -132,7 +132,17 @@ nav{
     justify-content: center;
     margin: 0;
     padding:10%;
-
+    
+}
+#carouselExampleIndicators2{
+    justify-content: center;
+    margin: 0;
+    padding:10%;
+}
+#carouselExampleIndicators3{
+    justify-content: center;
+    margin: 0;
+    padding:10%;   
 }
 #fishycenter{
     justify-content: center;
@@ -154,6 +164,13 @@ nav{
     font-weight: bold;
     font-size: 40px;
     color: rgb(137, 2, 2);
+    margin-bottom: 0;
+}
+#photo{
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 35px;
+    font-weight: bold;
     margin-bottom: 0;
 }
 #Swany{
