@@ -195,6 +195,12 @@ nav{
 #abtlinks:hover{
     background-color: aquamarine;
 }
+#linkimages{
+    height: 25px;
+}
+#linkimageE{
+    height: 22px;
+}
 #comingsoon{
     justify-content: center;
     margin: 0;
